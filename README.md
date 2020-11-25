@@ -3,6 +3,8 @@
 A Simple Portfolio using Flutter.
 
 
+![image](https://user-images.githubusercontent.com/61926985/100208626-ef04c380-2f2e-11eb-9224-4fbcf67fa676.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
